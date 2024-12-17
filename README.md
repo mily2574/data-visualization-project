@@ -33,13 +33,13 @@ Queste sono le principali librerie utilizzate per il progetto:
 ---
 
 ## 📑 Presentazione  
-La presentazione dei risultati è disponibile in due formati:
-- **PDF**: [](link-alla-presentazione.pdf).
+La presentazione dei risultati:
+- [InquinamentoAmbientaleEU.pdf](https://github.com/mily2574/data-visualization-project/blob/main/InquinamentoAmbientaleEU.pdf)
 
 ---
 
 ## 👥 Autrici  
-- Cabrera Alcivar Sheyla Milena [GitHub Profile](https://github.com/mily2574)  
+- Cabrera Alcivar Sheyla Milena
 - Borgonovo Arianna  
 
 ---
