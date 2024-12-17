@@ -33,7 +33,6 @@ Queste sono le principali librerie utilizzate per il progetto:
 ---
 
 ## 📑 Presentazione  
-La presentazione dei risultati:
 - [InquinamentoAmbientaleEU.pdf](https://github.com/mily2574/data-visualization-project/blob/main/InquinamentoAmbientaleEU.pdf)
 
 ---
