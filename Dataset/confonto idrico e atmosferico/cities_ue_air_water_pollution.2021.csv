@@ -1,0 +1,908 @@
+City,Region,Country,AirQuality,WaterPollution
+Berlin," """"",Germany,62.3641304347826,28.61271676300578
+Paris," ""Ile-de-France""",France,34.02439024390244,43.12169312169312
+Vilnius," """"",Lithuania,77.24719101123596,20.588235294117645
+Brussels," """"",Belgium,35.810810810810814,44.761904761904766
+Poznan," ""Greater Poland Voivodeship""",Poland,33.07692307692307,50.42372881355932
+Warsaw," ""Masovian Voivodeship""",Poland,27.27272727272727,36.01485148514851
+Modena," ""Emilia-Romagna""",Italy,39.0625,50.0
+Tours," """"",France,84.375,6.25
+Cologne," ""North Rhine-Westphalia""",Germany,60.71428571428571,27.77777777777778
+Gdynia," ""Pomeranian Voivodeship""",Poland,49.41860465116279,48.61111111111111
+Szczecin," ""West Pomeranian Voivodeship""",Poland,41.37931034482759,53.75
+Ljubljana," ""Ljubljana City Municipality""",Slovenia,72.16494845360825,17.58241758241758
+Plovdiv," ""Plovdiv region""",Bulgaria,31.41025641025641,36.29032258064516
+Sofia," ""Sofia City Province""",Bulgaria,23.621323529411764,40.943396226415096
+Milan," ""Lombardy""",Italy,24.397590361445783,39.490445859872615
+Trieste," ""Friuli-Venezia Giulia""",Italy,58.87096774193549,29.000000000000004
+Lodz," ""Lodz Voivodeship""",Poland,28.846153846153843,40.44117647058824
+Villeurbanne," """"",France,75.0,50.0
+Bonn," ""North Rhine-Westphalia""",Germany,82.8125,22.5
+Katowice," ""Silesian Voivodeship""",Poland,27.77777777777778,48.333333333333336
+Lisbon," ""Lisbon""",Portugal,64.60674157303372,24.856321839080454
+Rzeszow," ""Podkarpackie Voivodeship""",Poland,37.5,47.05882352941176
+Padua," ""Veneto""",Italy,29.166666666666664,50.0
+Bergamo," ""Lombardy""",Italy,46.66666666666666,35.0
+Venice," ""Veneto""",Italy,36.25,67.85714285714286
+Rennes," """"",France,62.5,35.0
+Lille," """"",France,48.91304347826087,35.526315789473685
+Heilbronn," ""Baden-Wurttemberg""",Germany,80.0,0.0
+Bialystok," ""Podlaskie Voivodeship""",Poland,34.523809523809526,52.94117647058824
+Nowy Sacz," ""Lesser Poland Voivodeship""",Poland,30.0,100.0
+Maribor," ""Maribor City Municipality""",Slovenia,76.25,18.75
+Celje," ""City Municipality of Celje""",Slovenia,50.0,8.333333333333332
+Koper," ""City Municipality of Koper""",Slovenia,87.5,0.0
+Aachen," ""North Rhine-Westphalia""",Germany,70.45454545454545,17.857142857142854
+Nova Gorica," ""City Municipality of Nova Gorica""",Slovenia,75.0,12.5
+Kranj," ""City Municipality of Kranj""",Slovenia,80.55555555555556,12.5
+Stuttgart," ""Baden-Wurttemberg""",Germany,43.125,24.28571428571429
+Karlsruhe," ""Baden-Wurttemberg""",Germany,87.5,5.555555555555558
+Hamburg," """"",Germany,70.76271186440678,24.50980392156863
+Salerno," ""Campania""",Italy,60.0,58.333333333333336
+Prague," """"",Czech Republic,63.21243523316063,25.70621468926554
+Busto Arsizio," ""Lombardy""",Italy,0.0,75.0
+Grenoble," """"",France,34.09090909090909,26.47058823529412
+Dortmund," ""North Rhine-Westphalia""",Germany,75.0,15.625
+Ghent," ""Flemish Region""",Belgium,55.46875,27.67857142857143
+Como," ""Lombardy""",Italy,58.333333333333336,40.0
+Zagreb," """"",Croatia,69.77401129943503,26.598837209302328
+Genoa," ""Liguria""",Italy,51.72413793103448,30.0
+Le Mans," """"",France,95.0,50.0
+Bordeaux," """"",France,68.4782608695652,42.64705882352941
+Barcelona," ""Catalonia""",Spain,35.49723756906077,51.31578947368421
+Athens," ""Attica Region""",Greece,44.1741214057508,30.3156146179402
+Osijek," ""Osijek-Baranja County""",Croatia,83.75,13.333333333333336
+Rijeka," ""Primorje-Gorski Kotar County""",Croatia,75.0,17.857142857142854
+Split," ""Split-Dalmatia County""",Croatia,71.71052631578947,30.0
+Kiel," ""Schleswig-Holstein""",Germany,93.75,25.0
+Schwerin," ""Mecklenburg-Western Pomerania""",Germany,87.5,50.0
+Potsdam," ""Brandenburg""",Germany,88.63636363636364,10.714285714285715
+Hanover," ""Lower Saxony""",Germany,75.0,22.916666666666668
+Düsseldorf," ""North Rhine-Westphalia""",Germany,64.81481481481481,23.91304347826087
+Mainz," ""Rhineland-Palatinate""",Germany,86.11111111111111,35.0
+Wiesbaden," ""Hesse""",Germany,73.21428571428572,42.5
+Dubrovnik," ""Dubrovnik-Neretva County""",Croatia,87.5,40.0
+Saarbrücken," ""Saarland""",Germany,87.5,12.5
+Munich," ""Bavaria""",Germany,74.4186046511628,15.466101694915253
+Dresden," ""Saxony""",Germany,75.0,7.8947368421052655
+Magdeburg," ""Saxony-Anhalt""",Germany,93.75,6.25
+Innsbruck," ""Tyrol""",Austria,75.0,7.8125
+Bregenz," ""Vorarlberg""",Austria,95.0,50.0
+Vienna," """"",Austria,82.7054794520548,10.144927536231885
+Stockholm," ""Stockholm County""",Sweden,83.20610687022901,15.0390625
+Helsinki," ""Uusimaa""",Finland,89.88095238095238,15.49586776859504
+Dublin," """"",Ireland,67.02380952380953,39.70588235294118
+Tallinn," ""Harju County""",Estonia,81.88775510204081,18.617021276595747
+Riga," """"",Latvia,62.5,31.956521739130437
+Bratislava," ""Bratislava Region""",Slovakia,62.32394366197183,32.46268656716418
+Budapest," """"",Hungary,40.61032863849765,32.375
+Gdansk," ""Pomeranian Voivodeship""",Poland,45.55555555555556,45.0
+Frankfurt," ""Hesse""",Germany,63.39285714285714,25.98039215686274
+Wroclaw," ""Lower Silesian Voivodeship""",Poland,25.68807339449541,35.43689320388349
+Luxembourg," """"",Luxembourg,83.10810810810811,20.454545454545453
+Bologna," ""Emilia-Romagna""",Italy,38.15789473684211,28.030303030303028
+Cagliari," ""Sardinia""",Italy,71.05263157894737,20.0
+Catania," ""Sicily""",Italy,46.42857142857143,55.55555555555556
+Caserta," ""Campania""",Italy,34.375,56.25
+Verona," ""Veneto""",Italy,36.11111111111111,42.85714285714286
+Florence," ""Tuscany""",Italy,52.67857142857143,36.0
+Essen," ""North Rhine-Westphalia""",Germany,80.0,4.166666666666669
+Leipzig," ""Saxony""",Germany,84.21052631578947,20.0
+Nuremberg," ""Bavaria""",Germany,75.0,12.5
+Duisburg," ""North Rhine-Westphalia""",Germany,53.57142857142857,31.25
+Bochum," ""North Rhine-Westphalia""",Germany,68.18181818181819,25.0
+Wuppertal," ""North Rhine-Westphalia""",Germany,90.0,0.0
+Bielefeld," ""North Rhine-Westphalia""",Germany,67.85714285714286,50.0
+Mannheim," ""Baden-Wurttemberg""",Germany,51.08695652173913,30.55555555555556
+Naples," ""Campania""",Italy,28.846153846153843,55.319148936170215
+Palermo," ""Sicily""",Italy,45.45454545454545,51.31578947368421
+Parma," ""Emilia-Romagna""",Italy,34.375,56.81818181818181
+Pescara," ""Abruzzo""",Italy,61.11111111111112,79.16666666666667
+Bremerhaven," """"",Germany,75.0,50.0
+Münster," ""North Rhine-Westphalia""",Germany,71.875,25.0
+Augsburg," ""Bavaria""",Germany,73.52941176470588,26.923076923076923
+Siena," ""Tuscany""",Italy,81.25,21.42857142857143
+Gelsenkirchen," ""North Rhine-Westphalia""",Germany,62.5,50.0
+Udine," ""Friuli-Venezia Giulia""",Italy,72.5,33.333333333333336
+Chemnitz," ""Saxony""",Germany,87.5,50.0
+Krefeld," ""North Rhine-Westphalia""",Germany,87.5,50.0
+Madrid," ""Community of Madrid""",Spain,36.234177215189874,18.954248366013072
+Halle (Saale)," ""Saxony-Anhalt""",Germany,75.0,0.0
+Freiburg im Breisgau," ""Baden-Wurttemberg""",Germany,88.33333333333333,4.999999999999999
+Oberhausen," ""North Rhine-Westphalia""",Germany,62.5,50.0
+Lübeck," ""Schleswig-Holstein""",Germany,100.0,25.0
+Rostock," ""Mecklenburg-Western Pomerania""",Germany,90.625,37.5
+Kassel," ""Hesse""",Germany,75.0,50.0
+Hagen," ""North Rhine-Westphalia""",Germany,100.0,50.0
+Hamm," ""North Rhine-Westphalia""",Germany,87.5,50.0
+Ludwigshafen," ""Rhineland-Palatinate""",Germany,75.0,0.0
+Osnabrück," ""Lower Saxony""",Germany,82.14285714285714,0.0
+Oldenburg," ""Lower Saxony""",Germany,75.0,18.75
+Leverkusen," ""North Rhine-Westphalia""",Germany,83.33333333333333,50.0
+Solingen," ""North Rhine-Westphalia""",Germany,87.5,50.0
+Neuss," ""North Rhine-Westphalia""",Germany,50.0,75.0
+Heidelberg," ""Baden-Wurttemberg""",Germany,89.28571428571428,25.0
+Paderborn," ""North Rhine-Westphalia""",Germany,75.0,25.0
+Darmstadt," ""Hesse""",Germany,71.875,27.500000000000004
+Regensburg," ""Bavaria""",Germany,87.5,7.142857142857145
+Ingolstadt," ""Bavaria""",Germany,100.0,0.0
+Ulm," ""Baden-Wurttemberg""",Germany,88.88888888888889,9.999999999999998
+Wolfsburg," ""Lower Saxony""",Germany,96.875,0.0
+Offenbach am Main," ""Hesse""",Germany,75.0,50.0
+Pforzheim," ""Baden-Wurttemberg""",Germany,85.0,25.0
+Recklinghausen," ""North Rhine-Westphalia""",Germany,100.0,50.0
+Bottrop," ""North Rhine-Westphalia""",Germany,80.0,0.0
+Reutlingen," ""Baden-Wurttemberg""",Germany,85.0,25.0
+Koblenz," ""Rhineland-Palatinate""",Germany,67.85714285714286,41.66666666666667
+Erlangen," ""Bavaria""",Germany,81.25,29.166666666666664
+Moers," ""North Rhine-Westphalia""",Germany,62.5,50.0
+Trier," ""Rhineland-Palatinate""",Germany,85.71428571428572,25.0
+Jena," ""Thuringia""",Germany,95.0,75.0
+Siegen," ""North Rhine-Westphalia""",Germany,91.66666666666669,12.5
+Hildesheim," ""Lower Saxony""",Germany,62.5,50.0
+Salzgitter," ""Lower Saxony""",Germany,95.0,0.0
+Cottbus," ""Brandenburg""",Germany,100.0,50.0
+Zadar," ""Zadar County""",Croatia,100.0,8.333333333333332
+Trento," ""Trentino-South Tyrol""",Italy,86.76470588235294,0.0
+Ancona," ""Marche""",Italy,63.888888888888886,30.0
+Perugia," ""Umbria""",Italy,70.0,50.0
+L'Aquila," ""Abruzzo""",Italy,87.5,50.0
+Bari," ""Apulia""",Italy,63.33333333333333,22.22222222222222
+Sibenik," ""Sibenik-Knin County""",Croatia,100.0,0.0
+Novy Jicin," """"",Czech Republic,62.5,50.0
+Karlovac," """"",Croatia,75.0,25.0
+Gera," ""Thuringia""",Germany,100.0,50.0
+Kaiserslautern," ""Rhineland-Palatinate""",Germany,87.5,4.999999999999999
+Zwickau," ""Saxony""",Germany,75.0,50.0
+Flensburg," ""Schleswig-Holstein""",Germany,87.5,50.0
+Tübingen," ""Baden-Wurttemberg""",Germany,89.28571428571428,8.333333333333332
+Konstanz," ""Baden-Wurttemberg""",Germany,79.16666666666667,25.0
+Minden," ""North Rhine-Westphalia""",Germany,100.0,50.0
+Worms," ""Rhineland-Palatinate""",Germany,60.0,100.0
+Wilhelmshaven," ""Lower Saxony""",Germany,100.0,50.0
+Marburg," ""Hesse""",Germany,85.0,0.0
+Catanzaro," ""Calabria""",Italy,87.5,50.0
+Bayreuth," ""Bavaria""",Germany,75.0,0.0
+Bamberg," ""Bavaria""",Germany,95.83333333333331,12.5
+Aschaffenburg," ""Bavaria""",Germany,77.77777777777779,40.0
+Aalen," ""Baden-Wurttemberg""",Germany,87.5,50.0
+Fulda," ""Hesse""",Germany,87.5,50.0
+Bergheim," ""North Rhine-Westphalia""",Germany,75.0,50.0
+Liege," ""Wallonia""",Belgium,54.54545454545454,28.57142857142857
+Wesel," ""North Rhine-Westphalia""",Germany,100.0,50.0
+Frankfurt (Oder)," ""Brandenburg""",Germany,70.0,100.0
+Friedrichshafen," ""Baden-Wurttemberg""",Germany,90.0,0.0
+Neu-Ulm," ""Bavaria""",Germany,100.0,50.0
+Schweinfurt," ""Bavaria""",Germany,87.5,62.5
+Passau," ""Bavaria""",Germany,90.0,0.0
+Pula," ""Istria County""",Croatia,88.63636363636364,27.27272727272727
+Slavonski Brod," ""Brod-Posavina County""",Croatia,27.27272727272727,17.857142857142854
+Rovinj," ""Istria County""",Croatia,100.0,25.0
+Porec," ""Istria County""",Croatia,83.33333333333333,8.333333333333332
+Varazdin," ""Varazdin County""",Croatia,91.66666666666669,33.333333333333336
+Treviso," ""Veneto""",Italy,50.0,27.77777777777778
+Koprivnica," ""Koprivnica-Krizevci County""",Croatia,100.0,0.0
+Bjelovar," ""Bjelovar-Bilogora County""",Croatia,100.0,0.0
+Toledo," ""Castile-La Mancha""",Spain,75.0,50.0
+Vukovar," ""Vukovar-Syrmia County""",Croatia,25.0,75.0
+Cuneo," ""Piedmont""",Italy,82.5,0.0
+Hvar," ""Split-Dalmatia County""",Croatia,75.0,25.0
+Novara," ""Piedmont""",Italy,65.0,0.0
+Alessandria," ""Piedmont""",Italy,35.714285714285715,56.25
+Asti," ""Piedmont""",Italy,62.5,50.0
+Soest," ""North Rhine-Westphalia""",Germany,100.0,50.0
+Brescia," ""Lombardy""",Italy,22.65625,70.53571428571428
+Cremona," ""Lombardy""",Italy,50.0,50.0
+Monza," ""Lombardy""",Italy,42.85714285714286,50.0
+Varese," ""Lombardy""",Italy,50.0,33.333333333333336
+Avignon," """"",France,57.14285714285714,66.66666666666666
+Montpellier," """"",France,71.66666666666667,29.54545454545454
+Varna," ""Varna Province""",Bulgaria,40.10416666666667,48.888888888888886
+Burgas," ""Burgas Province""",Bulgaria,46.42857142857143,46.73913043478261
+Vicenza," ""Veneto""",Italy,45.0,47.5
+Orleans," """"",France,83.33333333333333,50.0
+Gorizia," ""Friuli-Venezia Giulia""",Italy,90.0,25.0
+Strasbourg," """"",France,68.0,47.36842105263158
+Poitiers," """"",France,87.5,50.0
+Perpignan," """"",France,95.0,50.0
+Livorno," ""Tuscany""",Italy,55.55555555555556,62.5
+Herzogenrath," ""North Rhine-Westphalia""",Germany,75.0,50.0
+Hof," ""Bavaria""",Germany,75.0,50.0
+Dijon," """"",France,87.5,12.5
+Nordhausen," ""Thuringia""",Germany,100.0,50.0
+Brühl," ""North Rhine-Westphalia""",Germany,75.0,50.0
+Girona," ""Catalonia""",Spain,100.0,0.0
+Amberg," ""Bavaria""",Germany,100.0,50.0
+Bad Kreuznach," ""Rhineland-Palatinate""",Germany,100.0,50.0
+Toulouse," """"",France,61.29032258064516,39.42307692307692
+Valladolid," ""Castile and Leon""",Spain,70.0,41.66666666666667
+Ostrava," """"",Czech Republic,28.846153846153843,25.0
+Terni," ""Umbria""",Italy,42.5,50.0
+Bilbao," ""Basque Autonomous Community""",Spain,70.0,26.315789473684216
+Seville," ""Andalusia""",Spain,57.14285714285714,23.809523809523807
+Vigo," ""Galicia""",Spain,86.45833333333333,21.250000000000004
+Granada," ""Andalusia""",Spain,58.92857142857143,14.285714285714285
+Valencia," ""Community of Valencia""",Spain,59.65909090909091,38.41463414634146
+Palma," ""Balearic Islands""",Spain,75.0,36.66666666666667
+Malaga," ""Andalusia""",Spain,75.0,30.55555555555556
+Burgos," ""Castile and Leon""",Spain,100.0,33.333333333333336
+Pamplona," ""Navarre""",Spain,100.0,0.0
+Almeria," ""Andalusia""",Spain,75.0,43.75
+Elche," ""Community of Valencia""",Spain,85.0,41.66666666666667
+Montecchio," ""Umbria""",Italy,87.5,50.0
+Lugo," ""Galicia""",Spain,100.0,50.0
+Tulcea," ""Tulcea County""",Romania,80.0,29.166666666666664
+Zvolen," ""Banska Bystrica Region""",Slovakia,87.5,50.0
+Alicante," ""Community of Valencia""",Spain,80.68181818181819,40.625
+Tychy," ""Silesian Voivodeship""",Poland,22.5,43.75
+Nantes," """"",France,72.61904761904762,20.588235294117645
+Brest," """"",France,79.54545454545455,35.714285714285715
+Murcia," ""Region of Murcia""",Spain,68.18181818181819,32.14285714285714
+Huelva," ""Andalusia""",Spain,40.0,50.0
+Sabadell," ""Catalonia""",Spain,50.0,0.0
+Gijon," ""Asturias""",Spain,50.0,25.0
+Jerez de la Frontera," ""Andalusia""",Spain,67.85714285714286,25.0
+Pontevedra," ""Galicia""",Spain,96.42857142857144,16.666666666666668
+Lokeren," ""Flemish Region""",Belgium,75.0,50.0
+Bruges," ""Flemish Region""",Belgium,82.5,30.0
+Sint-Niklaas," ""Flemish Region""",Belgium,25.0,50.0
+Macerata," ""Marche""",Italy,93.75,8.333333333333332
+La Linea de la Concepcion," ""Andalusia""",Spain,37.5,75.0
+Ronda," ""Andalusia""",Spain,100.0,0.0
+Krk," ""Primorje-Gorski Kotar County""",Croatia,50.0,50.0
+Graz," ""Styria""",Austria,53.333333333333336,21.15384615384616
+Savona," ""Liguria""",Italy,66.66666666666666,62.5
+Piacenza," ""Emilia-Romagna""",Italy,62.5,50.0
+Ferrara," ""Emilia-Romagna""",Italy,39.285714285714285,50.0
+Ravenna," ""Emilia-Romagna""",Italy,64.28571428571428,16.666666666666668
+Forli," ""Emilia-Romagna""",Italy,58.333333333333336,100.0
+Rimini," ""Emilia-Romagna""",Italy,75.0,62.5
+Lucca," ""Tuscany""",Italy,66.66666666666666,37.5
+Pisa," ""Tuscany""",Italy,53.125,37.5
+Prato," ""Tuscany""",Italy,50.0,50.0
+Lecce," ""Apulia""",Italy,71.66666666666667,47.72727272727273
+Latina," ""Lazio""",Italy,70.83333333333334,62.5
+Foggia," ""Apulia""",Italy,62.5,81.25
+Barletta," ""Apulia""",Italy,65.0,75.0
+Brindisi," ""Apulia""",Italy,35.0,58.333333333333336
+Taranto," ""Apulia""",Italy,75.0,50.0
+Sassari," ""Sardinia""",Italy,71.875,43.75
+Olbia," ""Sardinia""",Italy,87.5,50.0
+Messina," ""Sicily""",Italy,75.0,12.5
+Syracuse," ""Sicily""",Italy,59.375,75.0
+Agrigento," ""Sicily""",Italy,75.0,50.0
+Tartu," ""Tartu County""",Estonia,92.5925925925926,11.956521739130432
+Aviles," ""Asturias""",Spain,50.0,50.0
+Kaufbeuren," ""Bavaria""",Germany,100.0,50.0
+Coburg," ""Bavaria""",Germany,100.0,50.0
+Ansbach," ""Bavaria""",Germany,80.0,25.0
+Bensheim," ""Hesse""",Germany,87.5,50.0
+Saarlouis," ""Saarland""",Germany,100.0,50.0
+Bernburg," ""Saxony-Anhalt""",Germany,100.0,50.0
+Backnang," ""Baden-Wurttemberg""",Germany,100.0,0.0
+Brno," """"",Czech Republic,55.932203389830505,35.18518518518518
+Tarragona," ""Catalonia""",Spain,50.0,45.0
+Castello de la Plana," ""Community of Valencia""",Spain,87.5,25.0
+Albacete," ""Castile-La Mancha""",Spain,75.0,12.5
+Badalona," ""Catalonia""",Spain,87.5,50.0
+Vilanova i la Geltru," ""Catalonia""",Spain,87.5,50.0
+Caceres," ""Extremadura""",Spain,100.0,50.0
+Badajoz," ""Extremadura""",Spain,96.875,43.75
+Jaen," ""Andalusia""",Spain,75.0,37.5
+Cadiz," ""Andalusia""",Spain,77.77777777777779,25.0
+Salamanca," ""Castile and Leon""",Spain,96.42857142857144,25.0
+Domzale," ""Municipality of Domzale""",Slovenia,50.0,0.0
+Grosuplje," ""Municipality of Grosuplje""",Slovenia,100.0,0.0
+Idrija," ""Municipality of Idrija""",Slovenia,75.0,25.0
+Izola," ""Municipality of Izola""",Slovenia,90.0,9.999999999999998
+Murska Sobota," ""City Municipality of Murska Sobota""",Slovenia,62.5,50.0
+Ravne na Koroskem," ""Municipality of Ravne na Koroskem""",Slovenia,75.0,50.0
+Slovenska Bistrica," ""Municipality of Slovenska Bistrica""",Slovenia,100.0,75.0
+Slovenj Gradec," ""City Municipality of Slovenj Gradec""",Slovenia,75.0,0.0
+Skofja Loka," ""Municipality of Skofja Loka""",Slovenia,100.0,0.0
+Velenje," ""City Municipality of Velenje""",Slovenia,75.0,50.0
+Zagorje ob Savi," ""Zagorje ob Savi Municipality""",Slovenia,62.5,50.0
+Uelzen," ""Lower Saxony""",Germany,100.0,50.0
+Schwedt/Oder," ""Brandenburg""",Germany,87.5,50.0
+Esch-sur-Alzette," """"",Luxembourg,75.0,50.0
+Deggendorf," ""Bavaria""",Germany,50.0,0.0
+Ceske Budejovice," """"",Czech Republic,65.0,50.0
+Thessaloniki," """"",Greece,39.523809523809526,47.5
+Biella," ""Piedmont""",Italy,87.5,50.0
+Bucharest," """"",Romania,23.50574712643678,55.0233644859813
+Neustrelitz," ""Mecklenburg-Western Pomerania""",Germany,100.0,50.0
+Skovde," ""Vastra Gotaland County""",Sweden,100.0,0.0
+Landstuhl," ""Rhineland-Palatinate""",Germany,100.0,0.0
+Marseille," """"",France,29.444444444444446,52.4390243902439
+Valletta," """"",Malta,31.944444444444443,56.57894736842105
+Bremen," """"",Germany,78.75,15.625
+Uppsala," ""Uppsala County""",Sweden,88.54166666666667,7.8947368421052655
+Gothenburg," ""Vastra Gotaland County""",Sweden,82.25806451612902,20.535714285714285
+Raciborz," ""Silesian Voivodeship""",Poland,62.5,50.0
+Kosice," ""Kosice Region""",Slovakia,52.38095238095239,35.29411764705882
+Helsingborg," ""Skane County""",Sweden,31.25,35.0
+Vasteras," ""Vastmanland County""",Sweden,80.76923076923077,16.666666666666668
+Linkoping," ""Ostergotland County""",Sweden,85.0,0.0
+Funchal," ""Madeira""",Portugal,84.09090909090908,31.944444444444443
+Umea," ""Vasterbotten County""",Sweden,97.2222222222222,0.0
+Orebro," ""Orebro County""",Sweden,87.5,12.5
+Zilina," ""Zilina region""",Slovakia,55.00000000000001,31.25
+Presov," ""Presov Region""",Slovakia,58.333333333333336,25.0
+Trnava," ""Trnava Region""",Slovakia,60.71428571428571,0.0
+Kalmar," ""Kalmar County""",Sweden,100.0,50.0
+Poprad," ""Presov Region""",Slovakia,97.2222222222222,9.999999999999998
+Nitra," ""Nitra Region""",Slovakia,75.0,50.0
+Martin," ""Zilina region""",Slovakia,55.00000000000001,0.0
+Molndal," ""Vastra Gotaland County""",Sweden,100.0,50.0
+Ruzomberok," ""Zilina region""",Slovakia,45.0,50.0
+Lahti," """"",Finland,90.90909090909092,14.285714285714285
+Rouen," """"",France,47.72727272727273,57.14285714285714
+Krakow," ""Lesser Poland Voivodeship""",Poland,12.198795180722891,36.53846153846154
+Gandia," ""Community of Valencia""",Spain,100.0,50.0
+Nice," """"",France,53.125,28.947368421052637
+Salzburg," ""Salzburg""",Austria,82.6923076923077,38.88888888888889
+Porto," """"",Portugal,68.44262295081968,34.583333333333336
+Cork," """"",Ireland,83.33333333333333,28.125
+Pardubice," """"",Czech Republic,50.0,41.66666666666667
+Rauma," """"",Finland,100.0,0.0
+Lublin," ""Lublin Voivodeship""",Poland,35.9375,41.66666666666667
+Besancon," """"",France,87.5,37.5
+Angers," """"",France,100.0,25.0
+Turku," """"",Finland,90.0,11.666666666666664
+Birkirkara," """"",Malta,17.857142857142854,64.28571428571428
+Cannes," """"",France,75.0,25.0
+Tampere," """"",Finland,86.60714285714286,13.541666666666668
+Nancy," """"",France,47.22222222222222,35.0
+Caen," """"",France,81.25,31.25
+Bydgoszcz," ""Kuyavian-Pomeranian Voivodeship""",Poland,34.523809523809526,42.64705882352941
+Linz," ""Upper Austria""",Austria,61.76470588235294,27.500000000000004
+Amiens," """"",France,75.0,37.5
+Klagenfurt," ""Carinthia""",Austria,71.42857142857143,16.666666666666668
+Reims," """"",France,81.25,18.75
+Szombathely," ""Vas County""",Hungary,100.0,50.0
+Clermont-Ferrand," """"",France,80.55555555555556,15.000000000000002
+Saint-Etienne," """"",France,90.0,0.0
+Nimes," """"",France,75.0,50.0
+Le Havre," """"",France,75.0,25.0
+Plzen," """"",Czech Republic,65.0,42.85714285714286
+Toulon," """"",France,60.0,41.66666666666667
+Bugibba," """"",Malta,40.0,65.0
+Viljandi," ""Viljandi County""",Estonia,100.0,37.5
+Paide," ""Jarva County""",Estonia,100.0,0.0
+Coimbra," ""Coimbra""",Portugal,82.35294117647058,41.17647058823529
+Limoges," """"",France,100.0,0.0
+Pecs," ""Baranya County""",Hungary,62.5,25.0
+Dunkirk," """"",France,36.11111111111111,45.0
+Suceava," ""Suceava County""",Romania,71.875,37.5
+Alcala de Henares," ""Community of Madrid""",Spain,75.0,50.0
+Espoo," ""Uusimaa""",Finland,95.45454545454544,19.444444444444443
+Saint-Denis," ""Reunion""",France,75.0,50.0
+Oulu," """"",Finland,86.95652173913044,12.5
+Aix-en-Provence," """"",France,78.57142857142857,50.0
+Torun," ""Kuyavian-Pomeranian Voivodeship""",Poland,37.5,42.85714285714286
+Demmin," ""Mecklenburg-Western Pomerania""",Germany,100.0,50.0
+Gniezno," ""Greater Poland Voivodeship""",Poland,50.0,0.0
+Kalisz," ""Greater Poland Voivodeship""",Poland,50.0,50.0
+Konin," ""Greater Poland Voivodeship""",Poland,25.0,25.0
+Leszno," ""Greater Poland Voivodeship""",Poland,75.0,50.0
+Faenza," ""Emilia-Romagna""",Italy,75.0,50.0
+Nykoping," ""Sodermanland County""",Sweden,100.0,50.0
+Visby," ""Gotland County""",Sweden,75.0,0.0
+Fuenlabrada," ""Community of Madrid""",Spain,87.5,100.0
+Annaberg-Buchholz," ""Saxony""",Germany,87.5,50.0
+Zalaegerszeg," ""Zala County""",Hungary,0.0,100.0
+Koszalin," ""West Pomeranian Voivodeship""",Poland,55.00000000000001,50.0
+Glogow," ""Lower Silesian Voivodeship""",Poland,50.0,50.0
+Kluczbork," ""Opole Voivodeship""",Poland,50.0,50.0
+Mulhouse," """"",France,87.5,25.0
+Debrecen," ""Hajdu-Bihar County""",Hungary,56.57894736842105,20.83333333333333
+Daugavpils," """"",Latvia,50.0,37.5
+Charleroi," ""Wallonia""",Belgium,50.0,60.0
+Olomouc," """"",Czech Republic,66.66666666666666,20.0
+Szeged," ""Csongrad-Csanad County""",Hungary,69.44444444444444,25.0
+La Rochelle," """"",France,90.0,0.0
+Olsztyn," ""Warmian-Masurian Voivodeship""",Poland,42.70833333333333,43.75
+Sibiu," ""Sibiu County""",Romania,77.63157894736842,21.666666666666668
+Mons," ""Wallonia""",Belgium,80.0,50.0
+Saue," ""Harju County""",Estonia,100.0,0.0
+Opole," ""Opole Voivodeship""",Poland,37.5,45.45454545454545
+Sopot," ""Pomeranian Voivodeship""",Poland,45.45454545454545,53.57142857142857
+Chrzanow," ""Lesser Poland Voivodeship""",Poland,37.5,50.0
+Oradea," """"",Romania,65.47619047619048,26.666666666666668
+Ourense," ""Galicia""",Spain,100.0,33.333333333333336
+Cluj-Napoca," ""Cluj County""",Romania,57.11206896551724,33.409090909090914
+Narva," ""Ida-Viru County""",Estonia,75.0,66.66666666666666
+Kielce," ""Swietokrzyskie Voivodeship""",Poland,50.0,50.0
+Bytom," ""Silesian Voivodeship""",Poland,35.0,75.0
+Parnu," ""Parnu County""",Estonia,75.0,25.0
+Miskolc," ""Borsod-Abauj-Zemplen County""",Hungary,44.44444444444444,15.000000000000002
+Corinth," ""Peloponnese Region""",Greece,87.5,50.0
+Czestochowa," ""Silesian Voivodeship""",Poland,45.83333333333333,12.5
+Rovaniemi," """"",Finland,100.0,15.000000000000002
+Zabrze," ""Silesian Voivodeship""",Poland,15.625,37.5
+Ventspils," """"",Latvia,92.85714285714286,8.333333333333332
+Chorzow," ""Silesian Voivodeship""",Poland,25.0,50.0
+Zgierz," ""Lodz Voivodeship""",Poland,75.0,50.0
+Elblag," ""Warmian-Masurian Voivodeship""",Poland,54.16666666666666,50.0
+Zielona Gora," ""Lubusz Voivodeship""",Poland,75.0,12.5
+Plock," ""Masovian Voivodeship""",Poland,33.333333333333336,45.0
+Gorzow Wielkopolski," ""Lubusz Voivodeship""",Poland,55.00000000000001,75.0
+Radom," ""Masovian Voivodeship""",Poland,40.0,50.0
+Slupsk," ""Pomeranian Voivodeship""",Poland,87.5,50.0
+Sosnowiec," ""Silesian Voivodeship""",Poland,17.857142857142854,25.0
+Gliwice," ""Silesian Voivodeship""",Poland,19.11764705882353,59.61538461538461
+Legnica," ""Lower Silesian Voivodeship""",Poland,50.0,50.0
+Tarnow," ""Lesser Poland Voivodeship""",Poland,37.5,50.0
+Wloclawek," ""Kuyavian-Pomeranian Voivodeship""",Poland,45.0,75.0
+Rybnik," ""Silesian Voivodeship""",Poland,13.88888888888889,41.66666666666667
+Valmiera," """"",Latvia,100.0,50.0
+Dabrowa Gornicza," ""Silesian Voivodeship""",Poland,33.333333333333336,25.0
+Kilkenny," ""Leinster""",Ireland,75.0,75.0
+Kolobrzeg," ""West Pomeranian Voivodeship""",Poland,100.0,0.0
+Walbrzych," ""Lower Silesian Voivodeship""",Poland,36.11111111111111,60.0
+Viseu," ""Viseu""",Portugal,79.16666666666667,37.5
+Leuven," ""Flemish Region""",Belgium,56.25,37.5
+Grudziadz," ""Kuyavian-Pomeranian Voivodeship""",Poland,45.0,0.0
+Vaasa," """"",Finland,92.5,8.333333333333332
+Eisenstadt," ""Burgenland""",Austria,87.5,50.0
+Antibes," """"",France,65.0,33.333333333333336
+Vantaa," ""Uusimaa""",Finland,87.5,12.5
+Galway," ""Connacht""",Ireland,92.04545454545456,44.44444444444444
+Szekesfehervar," ""Fejer County""",Hungary,62.5,18.75
+Wiener Neustadt," ""Lower Austria""",Austria,87.5,50.0
+Pau," """"",France,75.0,50.0
+Patras," ""West Greece Region""",Greece,60.0,41.66666666666667
+Limerick," """"",Ireland,80.43478260869566,38.15789473684211
+Namur," ""Wallonia""",Belgium,72.22222222222221,55.00000000000001
+Gyor," ""Gyor-Moson-Sopron County""",Hungary,79.16666666666667,0.0
+Jyvaskyla," """"",Finland,95.83333333333331,0.0
+Siauliai," """"",Lithuania,57.14285714285714,58.333333333333336
+Zabok," ""Krapina-Zagorje County""",Croatia,25.0,100.0
+Zakopane," ""Lesser Poland Voivodeship""",Poland,33.333333333333336,50.0
+Zakynthos," """"",Greece,100.0,25.0
+Banska Bystrica," ""Banska Bystrica Region""",Slovakia,62.5,25.0
+Trencin," ""Trencin Region""",Slovakia,78.57142857142857,41.66666666666667
+Zalau," ""Salaj County""",Romania,100.0,75.0
+Zamosc," ""Lublin Voivodeship""",Poland,50.0,50.0
+Decin," """"",Czech Republic,62.5,50.0
+Veszprem," ""Veszprem County""",Hungary,96.42857142857144,8.333333333333332
+Teplice," """"",Czech Republic,75.0,0.0
+Liberec," """"",Czech Republic,90.625,12.5
+Chomutov," """"",Czech Republic,75.0,50.0
+Most," """"",Czech Republic,62.5,50.0
+Jablonec nad Nisou," """"",Czech Republic,75.0,0.0
+Zgorzelec," ""Lower Silesian Voivodeship""",Poland,62.5,50.0
+Jelenia Gora," ""Lower Silesian Voivodeship""",Poland,50.0,50.0
+Zawiercie," ""Silesian Voivodeship""",Poland,25.0,50.0
+Zary," ""Lubusz Voivodeship""",Poland,62.5,50.0
+Kladno," """"",Czech Republic,75.0,75.0
+Opava," """"",Czech Republic,62.5,50.0
+Usti nad Labem," """"",Czech Republic,62.5,87.5
+Piotrkow Trybunalski," ""Lodz Voivodeship""",Poland,35.0,25.0
+Pabianice," ""Lodz Voivodeship""",Poland,29.166666666666664,50.0
+Faro," """"",Portugal,79.16666666666667,25.0
+Ruse," ""Ruse Province""",Bulgaria,21.42857142857143,50.0
+Heraklion," """"",Greece,86.76470588235294,50.0
+Czeladz," ""Silesian Voivodeship""",Poland,50.0,25.0
+Kuopio," """"",Finland,95.83333333333331,37.5
+Cartagena," ""Region of Murcia""",Spain,65.625,25.0
+Coslada," ""Community of Madrid""",Spain,70.83333333333334,50.0
+Chambery," """"",France,87.5,50.0
+Pleven," ""Pleven Province""",Bulgaria,17.857142857142854,100.0
+Eger," ""Heves County""",Hungary,100.0,50.0
+Liepaja," """"",Latvia,90.3846153846154,5.555555555555558
+Cakovec," ""Medimurje County""",Croatia,100.0,37.5
+Kalamata," ""Peloponnese Region""",Greece,50.0,40.0
+Craiova," ""Dolj County""",Romania,53.84615384615385,36.11111111111111
+Sopron," ""Gyor-Moson-Sopron County""",Hungary,100.0,0.0
+Dobrich," ""Dobrich Province""",Bulgaria,37.5,100.0
+Stara Zagora," ""Stara Zagora Province""",Bulgaria,61.11111111111112,4.999999999999999
+Guimaraes," ""Braga""",Portugal,93.75,43.75
+Zlin," """"",Czech Republic,75.0,37.5
+Dornbirn," ""Vorarlberg""",Austria,100.0,0.0
+Nyiregyhaza," ""Szabolcs-Szatmar-Bereg County""",Hungary,50.0,50.0
+Esztergom," ""Komarom-Esztergom County""",Hungary,75.0,50.0
+Kecskemet," ""Bacs-Kiskun County""",Hungary,75.0,50.0
+Larnaca," ""Larnaca District""",Cyprus,52.63157894736842,50.0
+Blagoevgrad," ""Blagoevgrad Province""",Bulgaria,47.5,25.0
+Veliko Tarnovo," ""Veliko Tarnovo Province""",Bulgaria,62.5,31.25
+Arad," ""Arad County""",Romania,66.25,35.0
+Setubal," ""Setubal""",Portugal,61.11111111111112,60.0
+Alba Iulia," ""Alba County""",Romania,62.5,50.0
+Jurmala," """"",Latvia,87.5,37.5
+Sliven," ""Sliven Province""",Bulgaria,53.57142857142857,8.333333333333332
+Larissa," """"",Greece,50.0,29.166666666666664
+Wels," ""Upper Austria""",Austria,75.0,0.0
+Evora," ""Evora""",Portugal,93.75,35.416666666666664
+Hradec Kralove," """"",Czech Republic,75.0,29.166666666666664
+Kozani," ""West Macedonia Region""",Greece,50.0,100.0
+Pori," """"",Finland,100.0,0.0
+Rezekne," """"",Latvia,75.0,25.0
+Paphos," ""Paphos District""",Cyprus,67.85714285714286,25.0
+Szolnok," ""Jasz-Nagykun-Szolnok County""",Hungary,75.0,16.666666666666668
+Wavre," ""Wallonia""",Belgium,75.0,100.0
+Shumen," ""Shumen Province""",Bulgaria,28.57142857142857,75.0
+Lappeenranta," """"",Finland,100.0,0.0
+Chania," """"",Greece,85.29411764705883,27.94117647058824
+Silistra," ""Silistra Province""",Bulgaria,100.0,50.0
+Tourcoing," """"",France,62.5,50.0
+Feldkirch," ""Vorarlberg""",Austria,83.33333333333333,0.0
+Jihlava," """"",Czech Republic,87.5,50.0
+Ioannina," ""Epirus Region""",Greece,87.5,41.66666666666667
+Waterford," """"",Ireland,87.5,25.0
+Baia Mare," ""Maramureș County""",Romania,60.86956521739131,44.73684210526316
+Pernik," ""Pernik Province""",Bulgaria,25.0,0.0
+Satu Mare," ""Satu Mare County""",Romania,64.28571428571428,83.33333333333333
+Limassol," ""Limassol District""",Cyprus,56.25,31.48148148148148
+Joensuu," """"",Finland,100.0,0.0
+Haskovo," ""Haskovo Province""",Bulgaria,25.0,25.0
+Yambol," ""Yambol Province""",Bulgaria,55.00000000000001,37.5
+Pazardzhik," ""Pazardzhik Province""",Bulgaria,25.0,50.0
+Kavala," """"",Greece,83.33333333333333,0.0
+Dunaujvaros," """"",Hungary,60.0,50.0
+Tatabanya," ""Komarom-Esztergom County""",Hungary,62.5,50.0
+Mostoles," ""Community of Madrid""",Spain,87.5,50.0
+Braila," ""Braila County""",Romania,41.66666666666667,81.25
+Rhodes," """"",Greece,92.85714285714286,21.42857142857143
+Mytilene," ""North Aegean Region""",Greece,100.0,37.5
+Utena," """"",Lithuania,87.5,50.0
+Amadora," ""Lisbon""",Portugal,75.0,75.0
+Kyustendil," ""Kyustendil Province""",Bulgaria,62.5,50.0
+Lovech," ""Lovech Province""",Bulgaria,37.5,50.0
+Vratsa," ""Vratsa Province""",Bulgaria,35.714285714285715,75.0
+Argos," ""Peloponnese Region""",Greece,25.0,100.0
+Sligo," ""Connacht""",Ireland,75.0,50.0
+Mikkeli," """"",Finland,100.0,16.666666666666668
+Alexandroupoli," """"",Greece,87.5,31.25
+Jekabpils," """"",Latvia,100.0,0.0
+Vila Nova de Gaia," ""Porto""",Portugal,67.5,31.25
+Ventimiglia," ""Liguria""",Italy,50.0,25.0
+Karvina," """"",Czech Republic,30.0,50.0
+Mlada Boleslav," """"",Czech Republic,70.0,50.0
+Asenovgrad," ""Plovdiv region""",Bulgaria,25.0,0.0
+Sisak," ""Sisak-Moslavina County""",Croatia,37.5,50.0
+Kotka," """"",Finland,100.0,0.0
+Vaslui," ""Vaslui County""",Romania,62.5,50.0
+Champigny-sur-Marne," ""Ile-de-France""",France,90.0,0.0
+Ramnicu Valcea," ""Valcea County""",Romania,87.5,31.25
+Kardzhali," ""Kardzhali Province""",Bulgaria,40.0,50.0
+Smolyan," ""Smolyan Province""",Bulgaria,100.0,50.0
+Havirov," """"",Czech Republic,50.0,0.0
+Erd," ""Pest County""",Hungary,66.66666666666666,37.5
+Kajaani," """"",Finland,100.0,50.0
+Porvoo," ""Uusimaa""",Finland,100.0,0.0
+Miercurea Ciuc," ""Harghita County""",Romania,90.0,0.0
+Angra do Heroismo," ""Azores""",Portugal,100.0,0.0
+Cheb," """"",Czech Republic,87.5,50.0
+Drobeta-Turnu Severin," ""Mehedinți County""",Romania,45.0,50.0
+Rueil-Malmaison," ""Ile-de-France""",France,58.333333333333336,25.0
+Seraing," ""Wallonia""",Belgium,75.0,50.0
+Volos," """"",Greece,50.0,55.55555555555556
+Povoa de Varzim," ""Porto""",Portugal,75.0,50.0
+Slubice," ""Lubusz Voivodeship""",Poland,87.5,50.0
+Rethymno," """"",Greece,85.0,0.0
+Buzau," ""Buzau County""",Romania,70.0,50.0
+Sanok," ""Podkarpackie Voivodeship""",Poland,62.5,50.0
+Hameenlinna," ""Tavastia Proper""",Finland,75.0,25.0
+Giurgiu," ""Giurgiu County""",Romania,50.0,50.0
+Targu Jiu," ""Gorj County""",Romania,37.5,50.0
+Sfantu Gheorghe," ""Covasna County""",Romania,100.0,0.0
+Mazeikiai," """"",Lithuania,62.5,50.0
+Visaginas," """"",Lithuania,87.5,12.5
+Kouvola," """"",Finland,100.0,0.0
+Deva," ""Hunedoara County""",Romania,81.25,31.25
+Dundalk," ""Leinster""",Ireland,81.25,31.25
+Corfu," """"",Greece,88.63636363636364,25.0
+Kyrenia," """"",Cyprus,75.0,50.0
+Ajka," ""Veszprem County""",Hungary,75.0,50.0
+Kastoria," ""West Macedonia Region""",Greece,100.0,0.0
+Slatina," ""Olt County""",Romania,58.333333333333336,25.0
+Drogheda," ""Leinster""",Ireland,100.0,12.5
+Vac," ""Pest County""",Hungary,100.0,0.0
+Trikala," """"",Greece,95.83333333333331,33.333333333333336
+Hyvinkaa," ""Uusimaa""",Finland,100.0,50.0
+Kokkola," """"",Finland,95.0,75.0
+Ponta Delgada," ""Azores""",Portugal,100.0,4.999999999999999
+Viana do Castelo," ""Viana do Castelo""",Portugal,100.0,58.333333333333336
+Komotini," """"",Greece,75.0,18.75
+Prievidza," ""Trencin Region""",Slovakia,80.0,0.0
+Ennis," """"",Ireland,100.0,50.0
+Biala Podlaska," ""Lublin Voivodeship""",Poland,50.0,50.0
+Edessa," """"",Greece,100.0,0.0
+Xanthi," """"",Greece,100.0,35.0
+Katerini," """"",Greece,37.5,37.5
+Livadeia," ""Central Greece Region""",Greece,62.5,50.0
+Imatra," """"",Finland,91.66666666666669,0.0
+Roeselare," ""Flemish Region""",Belgium,75.0,50.0
+Johvi," ""Ida-Viru County""",Estonia,100.0,50.0
+Carlow," ""Leinster""",Ireland,58.333333333333336,41.66666666666667
+Drama," """"",Greece,100.0,25.0
+Wadowice," ""Lesser Poland Voivodeship""",Poland,30.0,0.0
+Elva," ""Tartu County""",Estonia,100.0,8.333333333333332
+Barcelos," ""Braga""",Portugal,100.0,50.0
+Tralee," """"",Ireland,91.66666666666669,8.333333333333332
+Lohja," ""Uusimaa""",Finland,100.0,50.0
+Kazincbarcika," ""Borsod-Abauj-Zemplen County""",Hungary,50.0,50.0
+Znojmo," """"",Czech Republic,87.5,50.0
+Lomza," ""Podlaskie Voivodeship""",Poland,75.0,50.0
+Slobozia," ""Ialomița County""",Romania,25.0,75.0
+Rapla," ""Rapla County""",Estonia,100.0,50.0
+Montana," ""Montana Province""",Bulgaria,20.0,50.0
+Cugir," ""Alba County""",Romania,100.0,25.0
+Vinkovci," ""Vukovar-Syrmia County""",Croatia,100.0,0.0
+Chelm," ""Lublin Voivodeship""",Poland,50.0,50.0
+Suwalki," ""Podlaskie Voivodeship""",Poland,87.5,50.0
+Plasencia," ""Extremadura""",Spain,75.0,50.0
+Givet," """"",France,100.0,50.0
+Olaine," ""Olaine Municipality""",Latvia,100.0,0.0
+Sochaczew," ""Masovian Voivodeship""",Poland,37.5,50.0
+Bad Ischl," ""Upper Austria""",Austria,85.0,50.0
+Amstetten," ""Lower Austria""",Austria,62.5,50.0
+Vocklabruck," ""Upper Austria""",Austria,100.0,50.0
+Simbach am Inn," ""Bavaria""",Germany,100.0,50.0
+Hallein," ""Salzburg""",Austria,100.0,50.0
+Abensberg," ""Bavaria""",Germany,100.0,50.0
+Mittersill," ""Salzburg""",Austria,50.0,50.0
+Bruck an der Mur," ""Styria""",Austria,75.0,50.0
+Traun," ""Upper Austria""",Austria,87.5,50.0
+Steyr," ""Upper Austria""",Austria,100.0,50.0
+Turnhout," ""Flemish Region""",Belgium,75.0,50.0
+Makarska," ""Split-Dalmatia County""",Croatia,100.0,0.0
+Cascais," ""Lisbon""",Portugal,78.125,41.66666666666667
+Santarem," ""Santarem""",Portugal,95.0,50.0
+Caldas da Rainha," ""Leiria""",Portugal,50.0,50.0
+Nove Zamky," ""Nitra Region""",Slovakia,75.0,0.0
+Hajnowka," ""Podlaskie Voivodeship""",Poland,62.5,50.0
+Modling," ""Lower Austria""",Austria,87.5,50.0
+Muonio," """"",Finland,100.0,0.0
+Vilvoorde," ""Flemish Region""",Belgium,75.0,50.0
+Gospic," ""Lika-Senj County""",Croatia,100.0,0.0
+Siedlce," ""Masovian Voivodeship""",Poland,46.42857142857143,50.0
+Valkeakoski," """"",Finland,100.0,50.0
+Almada," ""Setubal""",Portugal,85.71428571428572,50.0
+Dimitrovgrad," ""Haskovo Province""",Bulgaria,12.5,50.0
+Velika Gorica," ""Zagreb County""",Croatia,25.0,50.0
+Lienz," ""Tyrol""",Austria,100.0,50.0
+Caslav," """"",Czech Republic,100.0,0.0
+Jindrichuv Hradec," """"",Czech Republic,100.0,25.0
+Athlone," ""Leinster""",Ireland,80.0,25.0
+Slapanice," """"",Czech Republic,87.5,37.5
+Tavira," """"",Portugal,100.0,0.0
+Sines," ""Setubal""",Portugal,75.0,50.0
+Zywiec," ""Silesian Voivodeship""",Poland,50.0,50.0
+Castelo Branco," ""Castelo Branco""",Portugal,100.0,0.0
+Albufeira," """"",Portugal,71.42857142857143,33.333333333333336
+Valasske Mezirici," """"",Czech Republic,50.0,100.0
+Nove Mesto nad Vahom," ""Trencin Region""",Slovakia,50.0,50.0
+Heviz," ""Zala County""",Hungary,62.5,37.5
+Lukow," ""Lublin Voivodeship""",Poland,62.5,50.0
+Litomerice," """"",Czech Republic,75.0,50.0
+Karlovy Vary," """"",Czech Republic,64.28571428571428,16.666666666666668
+Samokov," ""Sofia Province""",Bulgaria,50.0,50.0
+Bansko," ""Blagoevgrad Province""",Bulgaria,100.0,0.0
+Sumperk," """"",Czech Republic,75.0,50.0
+Zory," ""Silesian Voivodeship""",Poland,25.0,50.0
+Petrinja," ""Sisak-Moslavina County""",Croatia,75.0,50.0
+Kutina," ""Sisak-Moslavina County""",Croatia,45.0,25.0
+Novalja," ""Lika-Senj County""",Croatia,50.0,50.0
+Agrinio," ""West Greece Region""",Greece,75.0,50.0
+Ogulin," """"",Croatia,100.0,0.0
+Delnice," ""Primorje-Gorski Kotar County""",Croatia,100.0,0.0
+Novska," ""Sisak-Moslavina County""",Croatia,100.0,0.0
+Slunj," """"",Croatia,100.0,0.0
+Figueira da Foz," ""Coimbra""",Portugal,93.75,25.0
+Gmunden," ""Upper Austria""",Austria,100.0,50.0
+Nymburk," """"",Czech Republic,75.0,50.0
+Alverca do Ribatejo," ""Lisbon""",Portugal,50.0,0.0
+Ostroleka," ""Masovian Voivodeship""",Poland,62.5,50.0
+Bedzin," ""Silesian Voivodeship""",Poland,65.0,0.0
+Spisska Nova Ves," ""Kosice Region""",Slovakia,62.5,50.0
+Geel," ""Flemish Region""",Belgium,87.5,50.0
+Kolin," """"",Czech Republic,75.0,50.0
+Prerov," """"",Czech Republic,62.5,50.0
+Prostejov," """"",Czech Republic,50.0,50.0
+Ibiza," ""Balearic Islands""",Spain,68.75,50.0
+Kiskunfelegyhaza," ""Bacs-Kiskun County""",Hungary,100.0,75.0
+Villach," ""Carinthia""",Austria,85.41666666666667,11.249999999999998
+Algeciras," ""Andalusia""",Spain,75.0,50.0
+Marbella," ""Andalusia""",Spain,94.64285714285714,42.85714285714286
+Leoben," ""Styria""",Austria,80.0,75.0
+Ferrol," ""Galicia""",Spain,100.0,50.0
+Aveiro," ""Aveiro""",Portugal,67.1875,46.66666666666666
+Kufstein," ""Tyrol""",Austria,87.5,50.0
+Baden bei Wien," ""Lower Austria""",Austria,87.5,50.0
+Klosterneuburg," ""Lower Austria""",Austria,62.5,50.0
+Wolfsberg," ""Carinthia""",Austria,100.0,50.0
+Barakaldo," ""Basque Autonomous Community""",Spain,87.5,50.0
+Leonding," ""Upper Austria""",Austria,100.0,0.0
+Benidorm," ""Community of Valencia""",Spain,80.55555555555556,50.0
+Tulln an der Donau," ""Lower Austria""",Austria,87.5,50.0
+Schwechat," ""Lower Austria""",Austria,87.5,50.0
+Kronach," ""Bavaria""",Germany,87.5,50.0
+Knittelfeld," ""Styria""",Austria,75.0,50.0
+Tubize," ""Wallonia""",Belgium,100.0,0.0
+Bad Arolsen," ""Hesse""",Germany,100.0,50.0
+Bauska," """"",Latvia,75.0,50.0
+Humenne," ""Presov Region""",Slovakia,62.5,25.0
+Uherske Hradiste," """"",Czech Republic,45.0,0.0
+Vila Real," ""Vila Real""",Portugal,100.0,6.25
+Chaves," ""Vila Real""",Portugal,100.0,25.0
+Clausthal-Zellerfeld," ""Lower Saxony""",Germany,100.0,50.0
+Veurne," ""Flemish Region""",Belgium,87.5,50.0
+Vsetin," """"",Czech Republic,62.5,50.0
+Bad Waldsee," ""Baden-Wurttemberg""",Germany,100.0,50.0
+Naxos," """"",Greece,100.0,50.0
+Weilheim in Oberbayern," ""Bavaria""",Germany,100.0,50.0
+Portimao," """"",Portugal,90.0,35.0
+Dunakeszi," ""Pest County""",Hungary,50.0,0.0
+Vila Nova de Famalicao," ""Braga""",Portugal,100.0,50.0
+Buckow," ""Brandenburg""",Germany,87.5,50.0
+Pila," ""Greater Poland Voivodeship""",Poland,53.125,0.0
+Kos," """"",Greece,100.0,25.0
+Mariapocs," ""Szabolcs-Szatmar-Bereg County""",Hungary,100.0,0.0
+Nachod," """"",Czech Republic,100.0,50.0
+Spisska Stara Ves," ""Presov Region""",Slovakia,12.5,50.0
+Stara Lubovna," ""Presov Region""",Slovakia,100.0,75.0
+Louny," """"",Czech Republic,50.0,0.0
+Raahe," """"",Finland,100.0,50.0
+Tomar," ""Santarem""",Portugal,100.0,75.0
+Kapfenberg," ""Styria""",Austria,75.0,0.0
+Killarney," """"",Ireland,91.66666666666669,25.0
+Puerto de la Cruz," ""Canary Islands""",Spain,100.0,62.5
+Hollabrunn," ""Lower Austria""",Austria,87.5,50.0
+Kraslava," ""Kraslava Municipality""",Latvia,50.0,50.0
+Poltsamaa," ""Jogeva County""",Estonia,100.0,0.0
+Skarzysko-Kamienna," ""Swietokrzyskie Voivodeship""",Poland,62.5,50.0
+Longford," ""Leinster""",Ireland,100.0,50.0
+Arrecife," ""Canary Islands""",Spain,80.0,0.0
+Tapa," ""Laane-Viru County""",Estonia,100.0,50.0
+Wicklow," ""Leinster""",Ireland,100.0,50.0
+Peristeri," ""Attica Region""",Greece,62.5,50.0
+Mielec," ""Podkarpackie Voivodeship""",Poland,50.0,50.0
+Landeck," ""Tyrol""",Austria,87.5,50.0
+Wejherowo," ""Pomeranian Voivodeship""",Poland,87.5,50.0
+Arlon," ""Wallonia""",Belgium,100.0,50.0
+Jaroslaw," ""Podkarpackie Voivodeship""",Poland,25.0,50.0
+Sokolov," """"",Czech Republic,100.0,50.0
+Lagos," """"",Portugal,75.0,75.0
+Kedainiai," """"",Lithuania,60.0,0.0
+Ylivieska," """"",Finland,100.0,0.0
+Velky Meder," ""Trnava Region""",Slovakia,75.0,50.0
+Jonava," """"",Lithuania,50.0,100.0
+Saldus," """"",Latvia,100.0,0.0
+Naousa," """"",Greece,100.0,0.0
+Chios," ""North Aegean Region""",Greece,87.5,87.5
+Maynooth," ""Leinster""",Ireland,50.0,58.333333333333336
+Senica," ""Trnava Region""",Slovakia,62.5,50.0
+Vila Real de Santo Antonio," """"",Portugal,75.0,50.0
+Stalowa Wola," ""Podkarpackie Voivodeship""",Poland,25.0,25.0
+Gulbene," ""Gulbene Municipality""",Latvia,100.0,0.0
+Partizanske," ""Trencin Region""",Slovakia,50.0,50.0
+Budaors," ""Pest County""",Hungary,75.0,0.0
+Svitavy," """"",Czech Republic,62.5,50.0
+Rujiena," ""Rujiena Municipality""",Latvia,100.0,0.0
+Milovice," """"",Czech Republic,90.0,0.0
+Klaipeda," """"",Lithuania,75.0,33.333333333333336
+Laitila," """"",Finland,100.0,50.0
+Bochnia," ""Lesser Poland Voivodeship""",Poland,60.0,0.0
+Krosno," ""Podkarpackie Voivodeship""",Poland,62.5,50.0
+Beroun," """"",Czech Republic,62.5,50.0
+Hnusta," ""Banska Bystrica Region""",Slovakia,62.5,50.0
+Naujoji Akmene," """"",Lithuania,62.5,50.0
+Sannicolau Mare," ""Timiș County""",Romania,75.0,50.0
+Malacky," ""Bratislava Region""",Slovakia,87.5,50.0
+Gizycko," ""Warmian-Masurian Voivodeship""",Poland,100.0,50.0
+Mustvee," ""Jogeva County""",Estonia,100.0,50.0
+Jelsava," ""Banska Bystrica Region""",Slovakia,50.0,50.0
+Joniskis," """"",Lithuania,87.5,50.0
+Jaslo," ""Podkarpackie Voivodeship""",Poland,62.5,50.0
+Szczecinek," ""West Pomeranian Voivodeship""",Poland,75.0,50.0
+Covilha," ""Castelo Branco""",Portugal,95.83333333333331,0.0
+Koprivnice," """"",Czech Republic,75.0,50.0
+Mora," ""Dalarna County""",Sweden,75.0,0.0
+Iernut," ""Mureș County""",Romania,87.5,75.0
+Ostroda," ""Warmian-Masurian Voivodeship""",Poland,62.5,50.0
+Wyszkow," ""Masovian Voivodeship""",Poland,100.0,50.0
+Rumelange," """"",Luxembourg,62.5,50.0
+Modrice," """"",Czech Republic,12.5,50.0
+Torres Vedras," ""Lisbon""",Portugal,87.5,75.0
+Vila Franca de Xira," ""Lisbon""",Portugal,87.5,12.5
+Kildare," ""Leinster""",Ireland,100.0,100.0
+Oeiras," ""Lisbon""",Portugal,81.25,18.75
+Koscierzyna," ""Pomeranian Voivodeship""",Poland,62.5,50.0
+Newbridge," ""Leinster""",Ireland,50.0,0.0
+Krasnik," ""Lublin Voivodeship""",Poland,50.0,50.0
+Nisko," ""Podkarpackie Voivodeship""",Poland,62.5,50.0
+Nikaia," ""Attica Region""",Greece,33.333333333333336,0.0
+Konstancin-Jeziorna," ""Masovian Voivodeship""",Poland,35.0,45.83333333333333
+Chrudim," """"",Czech Republic,100.0,50.0
+Litvinov," """"",Czech Republic,62.5,50.0
+Trinec," """"",Czech Republic,50.0,50.0
+Lousada," ""Porto""",Portugal,75.0,50.0
+Swords," """"",Ireland,50.0,0.0
+Malahide," """"",Ireland,75.0,25.0
+Polaniec," ""Swietokrzyskie Voivodeship""",Poland,50.0,50.0
+Sao Bras de Alportel," """"",Portugal,100.0,50.0
+Maia," ""Porto""",Portugal,89.28571428571428,0.0
+Seixal," ""Setubal""",Portugal,37.5,50.0
+Broumov," """"",Czech Republic,75.0,50.0
+Chalandri," ""Attica Region""",Greece,75.0,0.0
+Opoczno," ""Lodz Voivodeship""",Poland,0.0,75.0
+Listowel," """"",Ireland,100.0,0.0
+Humpolec," """"",Czech Republic,100.0,50.0
+Vlasim," """"",Czech Republic,100.0,50.0
+Queluz," ""Lisbon""",Portugal,50.0,0.0
+Roznov pod Radhostem," """"",Czech Republic,100.0,50.0
+Otrokovice," """"",Czech Republic,75.0,50.0
+Rymarov," """"",Czech Republic,87.5,50.0
+Bilovec," """"",Czech Republic,62.5,50.0
+Samos," ""North Aegean Region""",Greece,100.0,0.0
+Rio Tinto," ""Porto""",Portugal,100.0,75.0
+Clifden," ""Connacht""",Ireland,100.0,50.0
+Cuevas del Almanzora," ""Andalusia""",Spain,62.5,50.0
+Claremorris," ""Connacht""",Ireland,100.0,0.0
+Lomnice nad Popelkou," """"",Czech Republic,75.0,50.0
+Rio de Mouro," ""Lisbon""",Portugal,100.0,50.0
+Panevezys," """"",Lithuania,70.0,40.0
+Kretinga," """"",Lithuania,75.0,50.0
+Vieira de Leiria," ""Leiria""",Portugal,87.5,50.0
+Ustrzyki Dolne," ""Podkarpackie Voivodeship""",Poland,70.0,0.0
+Palanga," """"",Lithuania,100.0,50.0
+Litija," ""Litija Municipality""",Slovenia,50.0,0.0
+Telsiai," """"",Lithuania,50.0,75.0
+Braga," ""Braga""",Portugal,85.29411764705883,25.0
+Leiria," ""Leiria""",Portugal,89.28571428571428,28.57142857142857
+Matosinhos," ""Porto""",Portugal,37.5,62.5
+Kaunas," """"",Lithuania,73.27586206896551,24.0
+Ribeseya," ""Asturias""",Spain,100.0,50.0
+Solna," ""Stockholm County""",Sweden,58.333333333333336,25.0
+Bacau," ""Bacau County""",Romania,67.3076923076923,50.0
+Aarschot," ""Flemish Region""",Belgium,75.0,41.66666666666667
+Guadalajara," ""Castile-La Mancha""",Spain,75.0,75.0
+Kocevje," ""Municipality of Kocevje""",Slovenia,100.0,50.0
+Croton," """"",Italy,62.5,50.0
+Sint-Truiden," ""Flemish Region""",Belgium,50.0,50.0
+San Cristobal de La Laguna," ""Canary Islands""",Spain,80.0,100.0
+Dudelange," """"",Luxembourg,66.66666666666666,62.5
+Benevento," ""Campania""",Italy,45.0,75.0
+Oviedo," ""Asturias""",Spain,67.85714285714286,25.0
+Spa," ""Wallonia""",Belgium,100.0,50.0
+Mechelen," ""Flemish Region""",Belgium,60.71428571428571,25.0
+Ostend," ""Flemish Region""",Belgium,37.5,50.0
+Kortrijk," ""Flemish Region""",Belgium,70.83333333333334,62.5
+Hasselt," ""Flemish Region""",Belgium,75.0,25.0
+Genk," ""Flemish Region""",Belgium,62.5,50.0
+Talavera de la Reina," ""Castile-La Mancha""",Spain,91.66666666666669,50.0
+Las Palmas de Gran Canaria," ""Canary Islands""",Spain,70.45454545454545,48.61111111111111
+Santander," ""Cantabria""",Spain,83.33333333333333,10.714285714285715
+Santiago de Compostela," ""Galicia""",Spain,95.83333333333331,37.5
+Leon," ""Castile and Leon""",Spain,83.33333333333333,31.25
+Getafe," ""Community of Madrid""",Spain,45.83333333333333,0.0
+Ponferrada," ""Castile and Leon""",Spain,100.0,50.0
+Santa Cruz de Tenerife," ""Canary Islands""",Spain,80.0,46.42857142857143
+Antwerp," ""Flemish Region""",Belgium,36.5,40.7608695652174
+Beringen," ""Flemish Region""",Belgium,0.0,100.0
+Damme," ""Flemish Region""",Belgium,87.5,50.0
+Verviers," ""Wallonia""",Belgium,62.5,50.0
+Waregem," ""Flemish Region""",Belgium,100.0,50.0
+Nivelles," ""Wallonia""",Belgium,100.0,50.0
+Arcos de Valdevez," ""Viana do Castelo""",Portugal,100.0,0.0
+Aranjuez," ""Community of Madrid""",Spain,100.0,0.0
+Huesca," ""Aragon""",Spain,100.0,50.0
+Sagunto," ""Community of Valencia""",Spain,100.0,50.0
+Zaragoza," ""Aragon""",Spain,80.55555555555556,32.14285714285714
+Erfurt," ""Thuringia""",Germany,85.0,50.0
+Garmisch-Partenkirchen," ""Bavaria""",Germany,100.0,50.0
+Loures," """"",Portugal,100.0,50.0
+Mouscron," ""Wallonia""",Belgium,55.00000000000001,75.0
+Vila do Conde," """"",Portugal,100.0,50.0
+Alges," ""Lisbon""",Portugal,100.0,75.0
+Tournai," ""Wallonia""",Belgium,60.71428571428571,58.333333333333336
+Avila," ""Castile and Leon""",Spain,87.5,50.0
+Teruel," ""Aragon""",Spain,100.0,50.0
+Ciudad Real," ""Castile-La Mancha""",Spain,82.14285714285714,0.0
+Palencia," ""Castile and Leon""",Spain,79.16666666666667,37.5
+Cordoba," ""Andalusia""",Spain,85.71428571428572,8.333333333333332
+Vic," ""Catalonia""",Spain,100.0,0.0
+Segovia," ""Castile and Leon""",Spain,100.0,0.0
+Zamora city," ""Castile and Leon""",Spain,100.0,50.0
