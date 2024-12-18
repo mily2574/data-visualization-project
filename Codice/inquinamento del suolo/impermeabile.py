@@ -12,7 +12,7 @@ g = sns.barplot(
     data=df,
     x="TIME_PERIOD", y="OBS_VALUE"  , color="RosyBrown", ci=None
 )
-
+plt.grid(True, which='both',  linewidth=0.3)
 plt.xlabel("Anni")
 plt.ylabel("percentuale aumentata rispetto al 2006")
 
