@@ -1,7 +1,7 @@
 # data-visualization-project
 
 ## 📄 Descrizione  
-Questo progetto ha lo scopo di analizzare e visualizzare dati relativi all'inquinamento ambientale in Europa, come **l'inquinamento atmosferico, suolo, acustico e idrico**. Utilizziamo strumenti di analisi dei dati e di visualizzazione per comprendere i trend principali e creare grafici interattivi.
+Questo progetto ha lo scopo di analizzare e visualizzare dati relativi all'inquinamento ambientale in Europa, come **l'inquinamento atmosferico, suolo, acustico e idrico**. Utilizziamo strumenti di analisi dei dati e di visualizzazione per comprendere i trend principali e creare grafici.
 
 ---
 
